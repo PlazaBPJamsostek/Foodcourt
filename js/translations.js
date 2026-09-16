@@ -148,7 +148,7 @@ const translations = {
   en: {
     meta: {
       title: "Foodcourt Lantai 8 | Plaza BPJAMSOSTEK",
-      description: "Discover a variety of food, coffee, retail, and comfortable spaces to eat, work, and unwind on Level 8, Plaza BPJAMSOSTEK."
+      description: "Discover a variety of food, coffee, retail, and comfortable spaces to eat, work, and unwind on 8 Floor, Plaza BPJAMSOSTEK."
     },
     skipLink: "Skip to content",
     nav: {
@@ -162,14 +162,14 @@ const translations = {
       closeMenu: "Close navigation menu"
     },
     hero: {
-      eyebrow: "Foodcourt · Plaza BPJAMSOSTEK · Level 8",
-      title: "Foodcourt Level 8",
+      eyebrow: "Foodcourt · Plaza BPJAMSOSTEK · 8 Floor",
+      title: "Foodcourt 8 Floor",
       tagline: "Eat. Work. Meet.",
-      lead: "Discover a variety of food, coffee, retail, and comfortable spaces to eat, work, and unwind on Level 8.",
+      lead: "Discover a variety of food, coffee, retail, and comfortable spaces to eat, work, and unwind on 8 Floor.",
       ctaPrimary: "Explore Foodcourt",
       ctaSecondary: "View Floor Guide",
-      imageAlt: "Floor plan of the Level 8 Foodcourt, Plaza BPJAMSOSTEK",
-      imageBadgeTitle: "LEVEL 08",
+      imageAlt: "Floor plan of the 8 Floor Foodcourt, Plaza BPJAMSOSTEK",
+      imageBadgeTitle: "8  Floor",
       imageBadgeSub: "Foodcourt & Retail Area",
       towerLabel: "Plaza BPJAMSOSTEK Tower",
       towerPlay: "Play video"
@@ -177,7 +177,7 @@ const translations = {
     tenant: {
       tag: "Foodcourt",
       title: "Explore Our Tenants",
-      desc: "Stand positions follow the Level 8 floor plan. Tenant status is updated regularly.",
+      desc: "Stand positions follow the 9 Floor floor plan. Tenant status is updated regularly.",
       viewDetail: "View Details"
     },
     retail: {
@@ -188,16 +188,16 @@ const translations = {
     facilities: {
       tag: "Facilities",
       title: "Everything You Need",
-      desc: "More than just a place to eat — Level 8 is designed for visitors to pause, work, and meet in comfort."
+      desc: "More than just a place to eat — 8  Floor is designed for visitors to pause, work, and meet in comfort."
     },
     work: {
       tag: "Work Friendly",
       title: "Work While You Dine",
-      desc: "Level 8 is built for visitors who want to eat and work at once — from charging your devices to a casual meeting, or coffee between tasks."
+      desc: "8 Floor is built for visitors who want to eat and work at once — from charging your devices to a casual meeting, or coffee between tasks."
     },
     floor: {
       tag: "Floor Guide",
-      title: "Explore Level 8",
+      title: "Explore 8 Floor",
       desc: "Use this floor plan to find Foodcourt stands and supporting areas. Zoom in for a clearer view.",
       zoom: "Zoom Floor Plan",
       fullscreen: "Fullscreen",
@@ -206,7 +206,7 @@ const translations = {
       zoomIn: "Zoom in",
       zoomOut: "Zoom out",
       hint: "Pinch or scroll to zoom, drag to look around",
-      note: "This plan follows the official technical drawing of Level 8.",
+      note: "This plan follows the official technical drawing of 8 Floor.",
       tenantListTitle: "Tenant Directory"
     },
     news: {
@@ -214,7 +214,7 @@ const translations = {
       title: "News & Promo",
       desc: "Tenant promos, new menus, tenant openings, events, and updates to Foodcourt hours.",
       mainBadge: "Coming Soon",
-      mainTitle: "Foodcourt Level 8 Updates",
+      mainTitle: "Foodcourt 8 Floor Updates",
       mainDesc: "Tenant promos, new menus, events, opening info, and facility updates will appear here.",
       mainCta: "Ask for Info"
     },
@@ -238,7 +238,7 @@ const translations = {
       instagram: "Instagram",
       instagramStatus: "Coming soon",
       location: "Location",
-      locationValue: "Foodcourt Level 8, Plaza BPJAMSOSTEK"
+      locationValue: "Foodcourt 8 Floor, Plaza BPJAMSOSTEK"
     },
     whatsappFloat: {
       label: "Chat with us"

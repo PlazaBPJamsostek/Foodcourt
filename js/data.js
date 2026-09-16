@@ -234,7 +234,7 @@ const tenants = [
     name: "Before Coffee",
     status: "opening-soon",
     badge: { id: "BUKA 14 SEP 2026", en: "OPENING 14 SEP 2026" },
-    note: { id: "Coffee shop baru di Lantai 8.", en: "A new coffee shop on Level 8." },
+    note: { id: "Coffee shop baru di Lantai 8.", en: "A new coffee shop on 8 Floor." },
     slug: "before-coffee",
     category: { id: "Coffee Shop", en: "Coffee Shop" },
     description: {
@@ -284,7 +284,7 @@ const tenants = [
     name: "R Coffe",
     status: "outdoor",
     badge: { id: "OUTDOOR", en: "OUTDOOR" },
-    note: { id: "Coffee spot di area outdoor Lantai 8.", en: "A coffee spot in the Level 8 outdoor area." },
+    note: { id: "Coffee spot di area outdoor Lantai 8.", en: "A coffee spot in the 8 floor outdoor area." },
     slug: "r-coffee",
     category: { id: "Coffee (Outdoor)", en: "Coffee (Outdoor)" },
     description: {
